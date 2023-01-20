@@ -1,7 +1,18 @@
-Grade Point Average Calculator made using react js.
+
 
 # GPA Calculator
 This is a simple GPA calculator built using React.js. It allows users to input their grades and credit hours for each class, and then calculates their overall GPA.
+this gpa calculator can be used for follwing grading system
+O>10
+A+>9
+A>8
+B+>7
+B>6
+C>5
+F>0
+ab>0
+I>0
+design is inspired by github
 
 ## Installation
 Clone the repository: git clone https://github.com/[username]/gpa-calculator.git
@@ -18,15 +29,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 
 
-this gpa calculator can be used for follwing grading system
-O>10
-A+>9
-A>8
-B+>7
-B>6
-C>5
-F>0
-ab>0
-I>0
-design is inspired by github
+
 ![image](https://user-images.githubusercontent.com/91087103/213689131-47edd89e-47d3-4368-93fe-e4bd54f92404.png)
