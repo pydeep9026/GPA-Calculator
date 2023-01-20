@@ -15,7 +15,7 @@ I>0
 design is inspired by github
 
 ## Installation
-Clone the repository: git clone https://github.com/pydeep9026/GPA-Calculator.git
+Clone the repository: git clone [Github](https://github.com/pydeep9026/GPA-Calculator.git)
 Install the dependencies: npm install
 Start the development server: npm start
 
