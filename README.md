@@ -12,8 +12,8 @@ C>5<br>
 F>0<br>
 ab>0<br>
 I>0<br>
-design is inspired by github
-link to the site:[GPA calculator](https://gpacalculator9026.netlify.app)
+design is inspired by github<br>
+link to the site: [GPA calculator](https://gpacalculator9026.netlify.app)
 
 ## Installation
 Clone the repository: git clone [Github](https://github.com/pydeep9026/GPA-Calculator.git)<br>
