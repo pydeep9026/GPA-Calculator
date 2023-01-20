@@ -1,0 +1,65 @@
+.sgpacomponent{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 10px;
+
+}
+
+.inputsubject{
+    height:40px;
+    width:140px;
+    text-align: center;
+    background-color: #21262d;
+    color: #c9d1d9;
+    border: 1px solid rgba(240,246,252,0.1);
+    border-radius:7px;
+}
+
+.inputsubject:hover{
+    background-color: #30363d;
+    border: 1px solid #8b949e;
+}
+
+.credits{
+    height:38px;
+    width:60px;
+    background-color: #21262d;
+    color: #c9d1d9;
+    border: 1px solid rgba(240,246,252,0.1);
+    border-radius:7px ;
+}
+
+.credits:hover{
+    background-color: #30363d;
+    border: 1px solid #8b949e;
+}
+
+.grades{
+    height:38px;
+    width:70px;
+    background-color: #21262d;
+    color: #c9d1d9;
+    border: 1px solid rgba(240,246,252,0.1);
+    border-radius:7px ;
+}
+
+.grades:hover{
+    background-color: #30363d;
+    border: 1px solid #8b949e;
+}
+
+.deletebtn{
+    width: 40px;
+    color: #f85149;
+    background-color: #21262d;
+    border: 1PX solid rgba(240,246,252,0.1);
+    border-radius: 7px;
+}
+
+
+.deletebtn:hover{
+    background-color: #30363d;
+    background-color : #f85149;
+    color: azure;
+}

@@ -1,0 +1,53 @@
+.addtab{
+  border-radius:100%;
+  width: 37px;
+  height: 37px;
+  background-color: #21262d;
+  border: 1PX solid rgba(240,246,252,0.1);
+  margin: 5px;
+  color: #3fb950;
+}
+
+.addtab:hover{
+  background-color: #3fb950;
+  color: azure;
+  border: 1px #3fb950;
+}
+.calc{
+  position: relative;
+  gap: 140px;
+}
+
+.calc button{
+  width:90px;
+  height: 35px;
+  border-radius: 7px;
+  background-color:  #26a641;
+  color: #ffffff;
+  position: relative;
+  top: -12px;
+  left: 250px;
+  font-weight: 550;
+}
+
+.calc button:hover{
+  background-color: #3fb950;
+  color: azure;
+  border: 1px #3fb950;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sgpa{ 
+  color:white;
+  padding:5px;
+  font-weight: bolder;
+  font-size: 23PX;
+  position: relative;
+  right: 220px;
+  top: -10px; ;
+}
+
+.sgpahead{
+  margin-top: 80px;
+}
