@@ -42,6 +42,11 @@ aligned the calculate and reset buttons <br>
 Improved user interface with better layout and design<br>
 highlighted the result<br>
 
+## v3<br>
+Added improved functionality to  calculate/reset button<br>
+Improved user interface
+
+
 
 
 
