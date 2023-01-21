@@ -48,7 +48,7 @@ Improved user interface
 
 ## v4 <br>
 added "0" to range slider for credits<br>
-set default value to null for credits
+set default value to null for grades
 
 
 
