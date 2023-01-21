@@ -46,9 +46,14 @@ highlighted the result<br>
 Added improved functionality to  calculate/reset button<br>
 Improved user interface
 
+## v4 <br>
+added "0" to range slider for credits<br>
+set default value to null for credits
 
 
 
+![image](https://user-images.githubusercontent.com/91087103/213879051-784e0047-8a42-4259-b531-3b55ded741d5.png)
 
-![image](https://user-images.githubusercontent.com/91087103/213806122-60f685e9-3fef-4f2c-ae1c-a4ac4dc6005f.png)
+
+
 
