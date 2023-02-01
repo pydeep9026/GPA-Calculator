@@ -31,7 +31,7 @@ If you would like to contribute to this project, please fork the repository and 
 # Changelog
 
 ## v1 (Initial Release)<br>
-Initial release of the GPA Calculator<br>
+Initial release of the GPA Calculator  <br>
 Allows users to input their grades and credit for each subject<br>
 Calculates overall GPA<br>
 Built using React.js<br>
