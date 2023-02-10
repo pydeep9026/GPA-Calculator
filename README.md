@@ -12,7 +12,7 @@ C>5<br>
 F>0<br>
 ab>0<br>
 I>0<br>
-design is inspired by github<br>
+design is inspired by  github<br>
 link to the site: [GPA calculator](https://gpacalculator9026.netlify.app)
 
 ## Installation
