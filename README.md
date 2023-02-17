@@ -1,7 +1,7 @@
 
 
 # GPA Calculator
-This is a simple GPA calculator built using React.js.   It  allows users to input their grades and credit hours for each class, and then calculates their overall GPA.<br>
+This is a simple GPA Calculator built using   React.js.   It  allows users to input their grades and credit hours for each class, and then calculates their overall GPA.<br>
 this gpa calculator can be used for follwing grading system<br>
 O>10<br>
 A+>9<br>
