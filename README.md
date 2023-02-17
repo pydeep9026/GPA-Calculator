@@ -18,10 +18,10 @@ link to the site: [GPA calculator](https://gpacalculator9026.netlify.app)
 ## Installation
 Clone the repository: git clone [Github](https://github.com/pydeep9026/GPA-Calculator.git)<br>
 Install the dependencies: npm install<br>
-Start the development server: npm start<br>
+Start the development server: npm   start<br>
 
 ## Usage
-Enter the number of credits you for that subject in the "Number of Credits" field.<br>
+Enter the number of credits you  for that subject in the "Number of Credits" field.<br>
 For each class, enter the name, credits, and letter grade in the corresponding fields.<br>
 Click the "Calculate" button to see your overall GPA.<br>
 
