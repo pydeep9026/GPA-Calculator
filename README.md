@@ -7,7 +7,7 @@ O>10<br>
 A+>9<br>
 A>8<br>
 B+>7<br>
-B>6<br>
+B>6 <br>
 C>5<br>
 F>0<br>
 ab>0<br>
